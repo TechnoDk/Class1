@@ -1,0 +1,5 @@
+PS E:\JSPIDER\CODE3\GIT AND HUB>  git init
+Initialized empty Git repository in E:/JSPIDER/CODE3/GIT AND HUB/.git/
+PS E:\JSPIDER\CODE3\GIT AND HUB> git add temp.txt
+PS E:\JSPIDER\CODE3\GIT AND HUB> 
+
